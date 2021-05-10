@@ -1,7 +1,7 @@
 # Game_Ninja
 Tên game: Ninja Đại Chiến
 
-Link Video demo:
+Link Video demo:https://drive.google.com/file/d/1rBJOAEuYcg12846is38jBVJL4qdMABwW/view?usp=sharing
 
 *Những thư viện được sử dụng
 -SDL2-2.0.14
