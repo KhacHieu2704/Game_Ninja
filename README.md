@@ -2,7 +2,7 @@
 Tên game: Ninja Đại Chiến
 
 Link Video demo:https://drive.google.com/file/d/1rBJOAEuYcg12846is38jBVJL4qdMABwW/view?usp=sharing
-
+Link Game: https://drive.google.com/file/d/1OSbKTp5rDx_v3jqzAL9ooD6hVjFHHl_n/view?usp=sharing
 *Những thư viện được sử dụng
 -SDL2-2.0.14
 -SDL2_image-2.0.5
@@ -10,7 +10,7 @@ Link Video demo:https://drive.google.com/file/d/1rBJOAEuYcg12846is38jBVJL4qdMABw
 -SDL2_ttf-2.0.15
 
 *Hướng dẫn cài:
-- Tải file zip từ github về và giải nén. Link: https://github.com/KhacHieu2704/Game_Ninja
+-Tải file zip từ link Game và giải nén.
 - Cài đặt Codeblock cùng với thư viện SDL2, SDL2_image, SDL2_mixer, SDL2_ttf (Các thư viện đã có sẵn file để cài trong thư mục SDL).
 - Sau khi cài đặt hãy mở file đã giải nén, mở file Ninja_Dai_Chien.cbp ( type file: project file) và sau đó hãy trải nghiệm game ^^.
 
